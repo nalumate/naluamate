@@ -22,4 +22,4 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     <a href="list.php">Cancel</a>
   </form>
 </body>
-</html>
+</html> 
